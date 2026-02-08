@@ -1,0 +1,7 @@
+# Prompt / instruction files (do not push)
+colab_prompt.md
+*_prompt.md
+*.prompt.md
+
+# OS
+.DS_Store
