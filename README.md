@@ -64,7 +64,7 @@ The system loads ICC T20 rule PDFs, chunks them, embeds them with OpenAI, stores
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/icc-t20-rag-qa.git
+   git clone https://github.com/kshitij3027/icc-t20-rag-qa.git
    cd icc-t20-rag-qa
    ```
 
@@ -87,7 +87,7 @@ The system loads ICC T20 rule PDFs, chunks them, embeds them with OpenAI, stores
 
 1. **Clone and enter the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/icc-t20-rag-qa.git
+   git clone https://github.com/kshitij3027/icc-t20-rag-qa.git
    cd icc-t20-rag-qa
    ```
 
